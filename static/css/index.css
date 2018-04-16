@@ -1,0 +1,55 @@
+/* Styles go here */
+
+.my-controller {
+  border: 1px solid #fcc;
+  padding: 5px;
+  margin: 3px;
+}
+.my-controller small {
+  color: #c99;
+}
+
+.third-controller {
+  border: 1px solid #000;
+  padding: 5px;
+  margin: 3px;
+}
+.third-controller small {
+  color: #9c9;
+}
+
+.pagination-numbers li{
+  color: #000;
+  padding: 5px;
+  /*border: 1px solid;*/
+  border-radius: 10px;
+}
+
+.id-column{
+  width: 75px;
+}
+
+footer{
+  font-size: 12px;
+  margin-top: 15px;
+  padding: 20px;
+}
+
+nav{
+  margin-bottom: 40px;
+}
+
+.pagination{
+  margin-top: 40px;
+}
+
+@media (min-width:801px){
+  td, th {
+    min-width: 100px;
+  }
+}
+
+td, th{
+  vertical-align: initial !important;
+}
+
