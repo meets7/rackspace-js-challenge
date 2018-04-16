@@ -7,7 +7,7 @@
 
 - Python/Flask
 - AngularJS 
-- Boostrap
+- Bootstrap
 
 ### Deployment
 - Make sure you have python3 and pip installed locally.
