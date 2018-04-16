@@ -1,7 +1,7 @@
 
 ## Rackspace - JS Challenge
 - By: Dhruv Sangvikar
-- Live Demo: [http://rackspace-challenge.dhruvsangvikar.info/](http://rackspace-challenge.dhruvsangvikar.info/)
+- Live Demo: [https://rackspace-challenge.dhruvsangvikar.info/](https://rackspace-challenge.dhruvsangvikar.info/)
 ### Tech Stack
 
 - Python/Flask
