@@ -8,7 +8,6 @@
 - Python/Flask
 - AngularJS 
 - Boostrap
-- Material Icons
 
 ### Deployment
 - Make sure you have python3 and pip installed locally.
